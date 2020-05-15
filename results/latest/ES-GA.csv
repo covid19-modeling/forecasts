@@ -1,4 +1,4 @@
-date,obs_total_deaths,obs_daily_deaths,lb_daily_deaths,ub_daily_deaths,mean_daily_deaths,lb_deaths,ub_deaths,mean_deaths,lb_i1,ub_i1,mean_i1,lb_i2,ub_i2,mean_i2,lb_i3,ub_i3,mean_i3,lb_r1,ub_r1,mean_r1,lb_r2,ub_r2,mean_r2,lb_infected,ub_infected,mean_infected,lb_infected_pc,ub_infected_pc,mean_infected_pc,lb_lambda,ub_lambda,mean_lambda
+date,obs_deaths,obs_daily_deaths,lb_daily_deaths,ub_daily_deaths,mean_daily_deaths,lb_deaths,ub_deaths,mean_deaths,lb_i1,ub_i1,mean_i1,lb_i2,ub_i2,mean_i2,lb_i3,ub_i3,mean_i3,lb_r1,ub_r1,mean_r1,lb_r2,ub_r2,mean_r2,lb_infected,ub_infected,mean_infected,lb_infected_pc,ub_infected_pc,mean_infected_pc,lb_lambda,ub_lambda,mean_lambda
 2020-02-26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2020-02-27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.911,1.911,1.911
 2020-02-28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,3.405,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,3.405,0.0,0.0,0.0,1.823,9.113,6.207
